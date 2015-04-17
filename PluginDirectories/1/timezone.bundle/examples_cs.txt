@@ -1,0 +1,5 @@
+Čas ~location(brooklyn)
+Časová zóna ~location(brooklyn)
+Čas ~location(brooklyn)
+hodin ~location(brooklyn)
+Kolik je hodin v ~location(shangai)
